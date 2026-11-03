@@ -48,3 +48,4 @@ The Library Management System helps libraries manage books and student records e
 - Voice Messaging
 - Message Search
 - Improved User Interface
+- Online Study Material Sharing

@@ -40,3 +40,7 @@ Managing library records manually is time-consuming and difficult. Librarians ma
 
 ### 7. Conclusion
 The Library Management System helps libraries manage books and student records efficiently. It reduces manual work and makes library operations simple, organized, and reliable.
+- Group Chat
+- File Sharing
+- Student Profile
+- Search Messages

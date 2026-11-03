@@ -44,3 +44,7 @@ The Library Management System helps libraries manage books and student records e
 - File Sharing
 - Student Profile
 - Search Messages
+- - Push Notifications
+- Voice Messaging
+- Message Search
+- Improved User Interface
